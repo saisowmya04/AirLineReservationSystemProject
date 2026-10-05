@@ -1,0 +1,60 @@
+/* Inserting data into passenger table*/
+ 
+ 
+INSERT INTO passenger
+(passenger_name, email, phone, date_of_birth)
+VALUES
+('Rahul Kumar', 'rahul.kumar@gmail.com', '9876543210', '2000-05-15'),
+('Priya Sharma', 'priya.sharma@gmail.com', '9876543211', '1999-08-20'),
+('Arjun Reddy', 'arjun.reddy@gmail.com', '9876543212', '2001-01-10'),
+('Sneha Rao', 'sneha.rao@gmail.com', '9876543213', '2000-12-25'),
+('Vikram Singh', 'vikram.singh@gmail.com', '9876543214', '1998-03-18'),
+('Ananya Patel', 'ananya.patel@gmail.com', '9876543215', '2002-07-11'),
+('Kiran Kumar', 'kiran.kumar@gmail.com', '9876543216', '1997-11-30'),
+('Divya Reddy', 'divya.reddy@gmail.com', '9876543217', '2001-09-05'),
+('Rohit Verma', 'rohit.verma@gmail.com', '9876543218', '1999-04-22'),
+('Pooja Singh', 'pooja.singh@gmail.com', '9876543219', '2000-06-14'),
+('Sandeep Rao', 'sandeep.rao@gmail.com', '9876543220', '1996-02-09'),
+('Meghana Reddy', 'meghana.reddy@gmail.com', '9876543221', '2002-10-17'),
+('Varun Sharma', 'varun.sharma@gmail.com', '9876543222', '1998-12-01'),
+('Keerthi Kumar', 'keerthi.kumar@gmail.com', '9876543223', '2001-03-27'),
+('Naveen Reddy', 'naveen.reddy@gmail.com', '9876543224', '1997-07-19'),
+('Aarav Mehta', 'aarav.mehta@gmail.com', '9876543225', '1998-01-15'),
+('Ishita Gupta', 'ishita.gupta@gmail.com', '9876543226', '2001-02-20'),
+('Aditya Rao', 'aditya.rao@gmail.com', '9876543227', '1997-06-12'),
+('Kavya Nair', 'kavya.nair@gmail.com', '9876543228', '2000-09-18'),
+('Manish Yadav', 'manish.yadav@gmail.com', '9876543229', '1996-11-23'),
+('Sakshi Jain', 'sakshi.jain@gmail.com', '9876543230', '2002-04-05'),
+('Rohan Kapoor', 'rohan.kapoor@gmail.com', '9876543231', '1999-07-29'),
+('Neha Joshi', 'neha.joshi@gmail.com', '9876543232', '2000-10-14'),
+('Akash Verma', 'akash.verma@gmail.com', '9876543233', '1998-03-08'),
+('Nandini Rao', 'nandini.rao@gmail.com', '9876543234', '2001-12-17'),
+('Harsh Patel', 'harsh.patel@gmail.com', '9876543235', '1997-05-21'),
+('Aishwarya Reddy', 'aishwarya.reddy@gmail.com', '9876543236', '2002-08-09'),
+('Vivek Sharma', 'vivek.sharma@gmail.com', '9876543237', '1995-01-30'),
+('Tanvi Singh', 'tanvi.singh@gmail.com', '9876543238', '2001-06-25'),
+('Karthik Kumar', 'karthik.kumar@gmail.com', '9876543239', '1998-09-11'),
+('Riya Malhotra', 'riya.malhotra@gmail.com', '9876543240', '2000-02-28'),
+('Abhishek Das', 'abhishek.das@gmail.com', '9876543241', '1996-12-05'),
+('Shreya Iyer', 'shreya.iyer@gmail.com', '9876543242', '2002-03-19'),
+('Rahul Nair', 'rahul.nair@gmail.com', '9876543243', '1999-11-07'),
+('Swathi Reddy', 'swathi.reddy@gmail.com', '9876543244', '2001-05-16'),
+('Varsha Kumar', 'varsha.kumar@gmail.com', '9876543245', '1997-08-22'),
+('Pranav Shah', 'pranav.shah@gmail.com', '9876543246', '2000-01-04'),
+('Harini Rao', 'harini.rao@gmail.com', '9876543247', '1998-10-27'),
+('Srinivas Reddy', 'srinivas.reddy@gmail.com', '9876543248', '1995-07-13'),
+('Madhuri Sharma', 'madhuri.sharma@gmail.com', '9876543249', '2001-04-30'),
+('Vamsi Krishna', 'vamsi.krishna@gmail.com', '9876543250', '1999-09-06'),
+('Deepika Patel', 'deepika.patel@gmail.com', '9876543251', '2002-11-18'),
+('Nikhil Verma', 'nikhil.verma@gmail.com', '9876543252', '1997-02-11'),
+('Lavanya Reddy', 'lavanya.reddy@gmail.com', '9876543253', '2000-06-07'),
+('Tarun Singh', 'tarun.singh@gmail.com', '9876543254', '1998-12-21'),
+('Bhavana Rao', 'bhavana.rao@gmail.com', '9876543255', '2001-01-26'),
+('Rakesh Kumar', 'rakesh.kumar@gmail.com', '9876543256', '1996-05-09'),
+('Pallavi Sharma', 'pallavi.sharma@gmail.com', '9876543257', '2002-07-15'),
+('Suresh Reddy', 'suresh.reddy@gmail.com', '9876543258', '1995-10-02'),
+('Mounika Rao', 'mounika.rao@gmail.com', '9876543259', '2000-03-13');
+
+
+
+select * from passenger;
